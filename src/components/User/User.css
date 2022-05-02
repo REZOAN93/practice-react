@@ -1,0 +1,30 @@
+.user-components{
+    border: 1px solid black;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    background-color: aquamarine;
+    height: 300px;
+    margin-bottom: 20px;
+    
+}
+.imgtag{
+    width: 30%;
+}
+.user-details{
+margin-left: 20px;
+ width: 70%;
+}
+
+.user-components img{
+    height: 100%;
+    width: 100%;
+}
+.main-btn{
+    background-color: yellowgreen;
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: 600;
+}
